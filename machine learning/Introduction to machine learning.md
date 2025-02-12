@@ -1,7 +1,7 @@
 # Introduction to Machine Learning
 Machine learning (ML) allows computers to learn and make decisions without being explicitly programmed. It involves feeding data into algorithms to identify patterns and make predictions on new data.
 
-![Introduction to Machine Learning](image.png)
+![Introduction to Machine Learning](https://github.com/Hanseeka-Dhingana/machine-learning/blob/main/machine%20learning/introduction_to_machine_learning.webp)
 
 
 
